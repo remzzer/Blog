@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_ui_titles",
+  "info": {
+    "displayName": "title",
+    "icon": "layer"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "string",
+      "required": true
+    },
+    "level": {
+      "type": "integer",
+      "default": 2,
+      "required": true
+    }
+  }
+}

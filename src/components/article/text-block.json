@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_ui_text_blocks",
+  "info": {
+    "displayName": "TextBlock",
+    "icon": "code",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "component",
+      "repeatable": false,
+      "component": "ui.title"
+    },
+    "content": {
+      "type": "component",
+      "repeatable": false,
+      "component": "ui.text"
+    }
+  }
+}

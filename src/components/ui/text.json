@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_ui_texts",
+  "info": {
+    "displayName": "text",
+    "icon": "quote"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "blocks",
+      "required": true
+    },
+    "lessWide": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
